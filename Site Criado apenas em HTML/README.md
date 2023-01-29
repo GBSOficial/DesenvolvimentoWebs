@@ -4,8 +4,11 @@ Web simples desenvolvida atraves do curso da udemy utilizando a linguagem HTML5
 
 
 ## Layout Site
-![Site 1](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Criado%20apenas%20em%20HTML/Prints%20Site/Home.png) ![Site2 2](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Criado%20apenas%20em%20HTML/Prints%20Site/Quem%20somos.png)
-![Site2 2](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Criado%20apenas%20em%20HTML/Prints%20Site/Contato.png)
+![Site 1](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Criado%20apenas%20em%20HTML/Prints%20Site/Home.png) 
+Quem Somos
+![Site2](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Criado%20apenas%20em%20HTML/Prints%20Site/Quem%20somos.png)
+Contato
+![Site3](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Criado%20apenas%20em%20HTML/Prints%20Site/Contato.png)
 
 
 
