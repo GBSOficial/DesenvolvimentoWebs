@@ -4,15 +4,15 @@ Web simples desenvolvida atraves do curso da udemy utilizando a linguagem HTML5
 
 
 ## Layout Site
-![Site 1](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Anna%20Bella%20Modelo/Prints%20Web/Home.png) 
+![Site 1](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/WebAnnaBella/PrintWeb/Home.png) 
 Biografia
-![Site2](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Anna%20Bella%20Modelo/Prints%20Web/Bio.png)
+![Site2](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/WebAnnaBella/PrintWeb/Bio.png)
 Campanhas Publicitarias
-![Site3](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Anna%20Bella%20Modelo/Prints%20Web/Campanhas1.png)
-![Site 4](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Anna%20Bella%20Modelo/Prints%20Web/Campanhas2.png) 
-![Site5](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Anna%20Bella%20Modelo/Prints%20Web/Campanhas3.png)
+![Site3](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/WebAnnaBella/PrintWeb/Campanhas1.png)
+![Site 4](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/WebAnnaBella/PrintWeb/Campanhas2.png) 
+![Site5](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/WebAnnaBella/PrintWeb/Campanhas3.png)
 Contato
-![Site6](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/Site%20Anna%20Bella%20Modelo/Prints%20Web/contato2.png)
+![Site6](https://raw.githubusercontent.com/GBSOficial/DesenvolvimentoWebs/main/WebAnnaBella/PrintWeb/contato2.png)
 
 
 # Tecnologias utilizadas
